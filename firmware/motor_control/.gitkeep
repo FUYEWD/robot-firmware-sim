@@ -1,0 +1,15 @@
+firmware/sensor_fusion/.gitkeep
+firmware/kinematics/.gitkeep  
+firmware/communication/.gitkeep
+firmware/drivers/.gitkeep
+firmware/hal/.gitkeep
+simulator/hardware_sim/.gitkeep
+simulator/robot_model/.gitkeep
+simulator/visualization/.gitkeep
+tests/unit_tests/.gitkeep
+tests/integration_tests/.gitkeep
+docs/design/.gitkeep
+docs/api_reference/.gitkeep
+config/.gitkeep
+scripts/.gitkeep
+tools/.gitkeep
